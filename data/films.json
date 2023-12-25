@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "sessionId": 1,
+        "name": "Spider-man",
+        "description": "cool film",
+        "rating": 9,
+        "durationMinutes": 150
+    },
+    {
+        "id": 2,
+        "sessionId": 2,
+        "name": "Mstitely Final",
+        "description": "interesting fim",
+        "rating": 12,
+        "durationMinutes": 181
+    },
+    {
+        "id": 3,
+        "sessionId": 3,
+        "name": "Buba",
+        "description": "for children",
+        "rating": 7,
+        "durationMinutes": 150
+    },
+    {
+        "id": 4,
+        "sessionId": 4,
+        "name": "Sherlock Holmes",
+        "description": "detective",
+        "rating": 15,
+        "durationMinutes": 800
+    }
+]

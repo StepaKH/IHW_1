@@ -1,0 +1,16 @@
+package application.answers
+
+enum class ResponseType {
+    SUCCESS,
+    ALREADY_SOLD,
+    CANT_RETURN,
+    SESSION_NOT_EXIST,
+    TIME_GONE,
+    INVALID_ROW_COLUMN,
+    NEW_INTERVAL_INTERCEPT_OLD_ONE,
+    CANT_OCCUPY,
+    SESSION_ADDED,
+    CANT_BOUGHT_TICKET,
+    TICKET_IS_NOT_EXIST,
+    FILM_IS_NOT_EXIST
+}
